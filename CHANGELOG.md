@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-09)
+## Unreleased (2024-06-10)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f9bc7dc`](https://github.com/stdlib-js/stdlib/commit/f9bc7dc126bbb1c67ea03692b71613bfba205ad7) - **test:** add test cases to ensure full coverage _(by Athan Reines)_
 -   [`4e6b7fd`](https://github.com/stdlib-js/stdlib/commit/4e6b7fdee8f3f217c6393c1c1043763377a8d6d5) - **feat:** add `blas/base/layout-resolve-enum` _(by Athan Reines)_
 
 </details>
