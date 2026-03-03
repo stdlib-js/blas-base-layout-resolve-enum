@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-03)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3e083af`](https://github.com/stdlib-js/stdlib/commit/3e083af31f5fc9950048b32c12a4b8c29749bb4b) - **bench:** use string interpolation in `blas/base/layout-resolve-enum` [(#10639)](https://github.com/stdlib-js/stdlib/pull/10639) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.3">
 
 ## 0.0.3 (2026-02-07)
